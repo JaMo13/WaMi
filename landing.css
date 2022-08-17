@@ -1,0 +1,137 @@
+.landing-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  transition: 0.3s;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.landing-container01 {
+  width: 100%;
+  height: 49px;
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--dl-space-space-fiveunits);
+  justify-content: center;
+}
+.landing-container02 {
+  width: 100%;
+  height: 159px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.landing-container03 {
+  width: 203px;
+  height: 131px;
+}
+.landing-navlink {
+  transition: 0.3s;
+  text-decoration: none;
+  background-color: var(--dl-color-scheme-white);
+}
+
+.landing-text01 {
+  transition: 0.3s;
+}
+
+.landing-dropdown-cont {
+  position: relative;
+}
+.landing-subtitle {
+  top: -1px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+  position: absolute;
+  transition: 0.3s;
+}
+
+
+.landing-container04 {
+  width: 258px;
+  height: 131px;
+}
+.landing-navlink1 {
+  transition: 0.3s;
+  text-decoration: none;
+  background-color: var(--dl-color-scheme-white);
+}
+
+.landing-text10 {
+  transition: 0.3s;
+}
+
+.landing-container05 {
+  width: auto;
+  height: 78px;
+}
+.landing-subtitle1 {
+  left: 0px;
+  right: 0px;
+  margin: auto;
+  position: absolute;
+  margin-top: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+}
+.landing-container06 {
+  width: 258px;
+  height: 131px;
+}
+.landing-navlink2 {
+  transition: 0.3s;
+  text-decoration: none;
+  background-color: var(--dl-color-scheme-white);
+}
+
+.landing-text20 {
+  transition: 0.3s;
+}
+
+.landing-container07 {
+  width: auto;
+  height: 78px;
+}
+.landing-subtitle2 {
+  left: 0px;
+  right: 0px;
+  margin: auto;
+  position: absolute;
+  margin-top: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+}
+.landing-container08 {
+  width: 258px;
+  height: 131px;
+}
+.landing-navlink3 {
+  transition: 0.3s;
+  text-decoration: none;
+  background-color: var(--dl-color-scheme-white);
+}
+
+.landing-text27 {
+  transition: 0.3s;
+}
+
+.landing-container09 {
+  width: auto;
+  height: 78px;
+}
+.landing-subtitle3 {
+  left: 0px;
+  right: 0px;
+  margin: auto;
+  position: absolute;
+  margin-top: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+}
